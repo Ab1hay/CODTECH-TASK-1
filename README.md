@@ -1,7 +1,4 @@
+# PortFolio_Website
+Complete Portfolio Website with Bootstrap - HTML/CSS In this project, we are going to learn and build how to create a complete portfolio website with bootstrap using HTML and CSS. We will understand everything from scratch. 
 
-Name: ABHAY VERMA
-Company: CODTECH IT SOLUTIONS
-ID: CT04DS5608
-Domain: FRONTEND WEB DEVELOPMENT
-Duration: July to August 2024
-Mentor: Muzammil Ahmed
+## To execute this project just open index.html file in the browser.
